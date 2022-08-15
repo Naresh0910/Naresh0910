@@ -10,7 +10,6 @@ I am a computer science studend and recently started to learn about html and sta
 * ✉️  You can contact me at [gkmnaresh01@gmail.com](mailto:gkmnaresh01@gmail.com)
 * 🧠  I'm learning react,javascript,nodejs,mongo db
 * 🤝  I'm open to collaborating on static webpages using html5 and css3
-* ⚡  I am nothing but a common human with no superpowers😅
 
 ### Skills
 
