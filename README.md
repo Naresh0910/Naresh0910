@@ -23,6 +23,6 @@ I am a computer science studend and recently started to learn about html and sta
 <a href="https://www.twitter.com/naresh_webdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Support Me
+### Support Me.
 
 <a href="https://www.buymeacoffee.com/NareshM"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
