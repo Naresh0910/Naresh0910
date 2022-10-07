@@ -9,7 +9,7 @@ I am a computer science studend and recently started to learn about html and sta
 * 🌍  I'm based in Chennai,Tamil Nadu
 * ✉️  You can contact me at [naresh2004.m@gmail.com](mailto:naresh2004.m@gmail.com)
 * 🧠  I'm learning react,javascript,nodejs,mongo db
-* 🤝  I'm open to collaborating on static webpages using html5 and css3
+* 🤝  I'm open to collaborating on static webpages using html5 and css3.
 
 ### Skills
 
