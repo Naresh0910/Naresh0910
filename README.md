@@ -6,9 +6,9 @@ Front End Web developer,
 
 I am a computer science studend and recently started to learn about html and started to explore more about it and now I have completed css courses from udemy and made some good looking static websites using these two awsome technology and I am currently learning javascript to boost my backend skills🔥🔥🔥
 
-* 🌍  I'm based in Chennai,Tamil Nadu
+* 🌍  I'm based in Chennai,Tamil Nadu. 
 * ✉️  You can contact me at [naresh2004.m@gmail.com](mailto:naresh2004.m@gmail.com)
-* 🧠  I'm learning react,javascript,nodejs,mongo db
+* 🧠  I'm learning react js,javascript,nodejs,mongo db, express
 * 🤝  I'm open to collaborating on static webpages using html5 and css3.
 
 ### Skills
@@ -25,4 +25,4 @@ I am a computer science studend and recently started to learn about html and sta
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/NareshM"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/NareshM"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a
